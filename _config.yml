@@ -12,8 +12,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Mark Pearl's Technology Blog
-tagline: Snippets and tips I found useful in the technology of software development
+title : Mark Pearl's Financial Concepts Blog
+tagline: Snippets and tips I found useful in the financial sector
 author :
   name : Mark Pearl
   email : MarkPearl@gmail.com
@@ -29,7 +29,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://technology.MarkPearl.co.za
+production_url : http://FinancialConcepts.MarkPearl.co.za
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
