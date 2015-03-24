@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Technology in Software Development
-tagline: technology snippets that I found useful
+title: Mark's Financial Concepts Blog
+tagline: notes on financial concepts that I found useful
 ---
 {% include JB/setup %}
 
