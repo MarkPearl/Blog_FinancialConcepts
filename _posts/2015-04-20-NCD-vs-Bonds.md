@@ -15,7 +15,7 @@ Right now with my superficial understanding I am battling to differentiate betwe
 
 A NCD is a fixed rate short term instrument.
  
-It’s basically a fixed deposit (Negotiable Certificate of Deposit).  The Negotiable is just the length of the deposit and the rate they get.  So NCD's are initiated by the clients - they want to place money with us and we give them a fixed rate and a term.
+It's basically a fixed deposit (Negotiable Certificate of Deposit).  The Negotiable is just the length of the deposit and the rate they get.  So NCD's are initiated by the clients - they want to place money with us and we give them a fixed rate and a term.
  
 Bonds are issued by us into the market.  They are generally also Fixed rate, but much longer term (1 year onwards).  They are initiated by us, and people buy them.
  
