@@ -26,6 +26,6 @@ Generally bonds pay a semi-annual coupon, although a zero-coupon bond is very mu
 You also get floating rate bonds (generally called Floating Rate Notes or FRN’s)
  
 So in summary the main differences between and NCD and a Zero-Coupon Bond is:
-1.       NCD’s are initiated by our clients - we issue bonds and people decide if they want to buy them  
-2.       NCD’s are generally short term (up to a year), Bonds are long term (greater than a year).  
-3.       Most bonds pay a semi-annual coupon, most NCD’s don’t  
+1. NCD’s are initiated by our clients - we issue bonds and people decide if they want to buy them  
+2. NCD’s are generally short term (up to a year), Bonds are long term (greater than a year).  
+3. Most bonds pay a semi-annual coupon, most NCD’s don’t  
