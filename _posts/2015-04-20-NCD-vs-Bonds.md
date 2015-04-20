@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Difference between a bond and a NCD 
-tags: NCD, Bond
+tags: NCD
 category: General
 ---
 
